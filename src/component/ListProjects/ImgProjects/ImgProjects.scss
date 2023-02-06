@@ -1,0 +1,11 @@
+.screen-projects{
+    width: 400px;
+    height: 200px;
+    transition: 0.7s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.screen-projects:hover{
+    scale: (1.3);
+    cursor: pointer;
+}

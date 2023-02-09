@@ -30,5 +30,14 @@
         "description": "For experionse in this app I have used React Context and it helped me to understand more about React. In this app you can add any your tasks, also you can edit, remove, add to main and tick if you finished some task. You can see percentage of uncompleted tasks. I hope it is going to help you will not forget your tasks",
         "siteLink": "https://s1lenc1995.github.io/tasks-app/",
         "codeLink": "https://github.com/S1lenc1995/tasks-app"
+    },
+    {   
+        "id": 5,
+        "name": "Coffee time",
+        "img": "./img/coffee_time.png",
+        "description": "In this project I used React, Redux, React routers, Formik, and you can chose coffee machine and add to favorites or to basket and after create your order",
+        "siteLink": "https://s1lenc1995.github.io/Coffee_time/",
+        "codeLink": "https://github.com/S1lenc1995/Coffee_time"
     }
 ]
+

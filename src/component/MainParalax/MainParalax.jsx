@@ -12,7 +12,7 @@ const MainParalax = () => {
         </div>
         <div className='skils'>
             <h2 className='header-skils'>Work with:</h2>
-            <p className='description'>HTML, CSS, JS, React, NPM, SCSS, Bootstrap, Redax, Webpack, Gulp, create responsive and flexible layouts.</p>
+            <p className='description'>HTML, CSS, JS, React, TypeScript, NPM, SCSS, Bootstrap, Redax, Webpack, Gulp, create responsive and flexible layouts.</p>
             <img className='my-photo' src={MyPhoto} alt="photo" />
             <h2 className='header-skils'> IT Education:</h2>
             <img className='my-photo' src={logoEducation} alt="photo" />

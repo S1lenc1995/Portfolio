@@ -24,7 +24,7 @@ const ImgProjects = () => {
     
 
     const item = projects?.map(({ id, name, description, img, siteLink, codeLink }) => (
-        <Link to={`Portfolio/projects/${id}`}>
+        <Link to={`/projects/${id}`}>
             <div onClick={() => projectPage({ id, name, description, img, siteLink, codeLink })} key={id} id={id}>
                 <img className="screen-projects" src={img} alt="photo" />
             </div>

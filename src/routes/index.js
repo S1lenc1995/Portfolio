@@ -11,10 +11,10 @@ import CurentProject from "../pages/CurentProject"
 const RootRouters = () => {
     return(
         <Routes>
-            <Route path="Portfolio" element={<MainPage/>} ></Route>
-            <Route path="Portfolio/contacts" element={<Contacts/>}></Route>
-            <Route path="Portfolio/projects" element={<Projects/>}></Route>
-            <Route path="Portfolio/projects/:id" element={<CurentProject/>}></Route>
+            <Route path="/" element={<MainPage/>} ></Route>
+            <Route path="/contacts" element={<Contacts/>}></Route>
+            <Route path="/projects" element={<Projects/>}></Route>
+            <Route path="/projects/:id" element={<CurentProject/>}></Route>
         </Routes>
     )
 }

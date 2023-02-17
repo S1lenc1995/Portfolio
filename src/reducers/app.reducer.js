@@ -26,7 +26,7 @@ export const {actionProjects, actionProjectPage} = appSlice.actions
 
 export const actionFetchProjects = () => (dispatch) =>{
     console.log('asassa')
-    return sendRequest('./Portfolio/data.json')
+    return sendRequest('./data.json')
         .then((result) =>{
             dispatch(actionProjects(result))
         })

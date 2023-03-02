@@ -17,7 +17,7 @@ const CurentProject = () => {
         <div id={id} className="curent_project_wraper">
             <Link to="/projects" className="btn-back"><RightArrow/></Link>
             <h1 className="curent_project_header">{name}</h1>
-            <img className="curent_project_img" src={`../${img}`} alt="photo" />
+            <img className="curent_project_img" src={img} alt="photo" />
             <div className="btn_block">
                 <button className="btn_link" onClick={() => window.open(`${codeLink}`)}> Go to code</button>
                 <button className="btn_link"onClick={() => window.open(`${siteLink}`)}> Go to site</button>

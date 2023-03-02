@@ -20,7 +20,7 @@ const MainParalax = () => {
             <h2 className='header-skils'> English level:</h2>
             <p className='description'> Intermediate (B1)</p>
             <h2 className='header-skils'> About me:</h2>
-            <p className='description'>I like sport especially football, box and sometimes I go to the fishing with my friens. Every day I improve my skils in IT, because for me it`s very intresting. Also I have new 
+            <p className='description'>In my work I like use react with redux and router. Also keen on Type Script because this helps to avoid many mistakes. I do like sports especially football, box and sometimes I go to the fishing with my friens. Every day I improve my skils in IT, because for me it`s very intresting. Also I have new 
 hobby, it`s Codewars, you can check in all my profiels in footer</p>
      
         </div>

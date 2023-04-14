@@ -38,6 +38,14 @@
         "description": "In this project I used React, Redux, React routers, Formik, and you can chose coffee machine and add to favorites or to basket and after create your order",
         "siteLink": "https://s1lenc1995.github.io/Coffee_time/",
         "codeLink": "https://github.com/S1lenc1995/Coffee_time"
+    },
+    {   
+        "id": 6,
+        "name": "Best Laptops 24",
+        "img": "./img/BestLaptops24.png",
+        "description": "This is online store selling laptops. I hope you like this website and buy a laptop from us. If you are a registered user, you can leave comments and it is possible to edit data in your personal account, all filtering and pagination takes place on the backend. Functionality for the basket of the registered user has also been created. During the development of this page was used Redux, React-Router, Redux-Thunk, SCSS, NodeJS, Mongodb, Express, Mobile first, Formic & Yup, Slider(react-slick), Huski, Eslint, Stylelint, Prettier, BaseLine mui, Axios, Material UI, Framer-motion, testing-library/jest-dom, testing-library/react ",
+        "siteLink": "https://best-laptop24.onrender.com/",
+        "codeLink": "https://github.com/S1lenc1995/Best_Laptops_24"
     }
 ]
 

@@ -3,7 +3,7 @@ import { ReactComponent as GitHub } from './img/gitHub.svg'
 import { ReactComponent as Instagram } from './img/instagram.svg'
 import { ReactComponent as LinkedIn } from './img/linkedIn.svg'
 
-import './Footer.scss'
+import './Footer.scss' 
 
 
 const Footer = () => {
